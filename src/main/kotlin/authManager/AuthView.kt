@@ -1,0 +1,4 @@
+package authManager
+
+class AuthView {
+}

@@ -1,0 +1,4 @@
+package babyManager
+
+class BabyManagerImpl {
+}
